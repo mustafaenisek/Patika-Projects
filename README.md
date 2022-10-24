@@ -1,2 +1,3 @@
 # Patika-Projects
-Patika.dev &amp; Kodluyoruz üzerinden aldığım eğitim programı projeleri için oluşturduğum repo.
+
+[Patika](https://www.patika.dev/tr) &amp; [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) üzerinden aldığım eğitim programı projeleri için oluşturduğum repo.
